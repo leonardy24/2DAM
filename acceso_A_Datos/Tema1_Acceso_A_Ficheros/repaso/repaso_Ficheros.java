@@ -26,6 +26,9 @@ public class repaso_Ficheros {
 		 
 		 System.out.println(fichero.length());
 		 
+		 System.out.println(fichero.isDirectory());
+		 
+		 
 	}
 	
 	
